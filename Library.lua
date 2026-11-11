@@ -29,7 +29,7 @@ local Toggles = {}
 local Options = {}
 local Tooltips = {}
 
-local BaseURL = "https://raw.githubusercontent.com/tanhoangviet/Obsidian-UI-Modded/main/"
+local BaseURL = "https://raw.githubusercontent.com/StarLight-scrpit/Obsidian-UI-Modded/main/"
 local CustomImageManager = {}
 local CustomImageManagerAssets = {
     TransparencyTexture = {
